@@ -121,7 +121,7 @@ body {
 
 .div-1, .div-2, .div-3 {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
-  color: #fff;
+  color: #ebfafa;
   line-height: 1.5em;
   font-size: 1.25em;
   height: auto;
@@ -216,8 +216,8 @@ body {
     }
 
     .div-1, .div-2 {
-      border-right: 1px solid #555;
-      padding-right: 30px;
+      border-right: 1px solid #33cccc;
+      padding-right: 50px;
     }
 }
 
